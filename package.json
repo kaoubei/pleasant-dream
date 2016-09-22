@@ -5,7 +5,7 @@
   "engines": {
       "node": "4.2.6",
       "npm": "3.10.7"
-  }
+  },
   "scripts": {
     "postinstall": "grunt uglify",
     "start": "nodejs ./bin/www"
